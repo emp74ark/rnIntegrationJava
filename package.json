@@ -1,0 +1,15 @@
+{
+  "name": "rnative",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "@react-native/metro-config": "^0.73.1",
+    "install": "^0.13.0",
+    "npm": "^10.1.0",
+    "react": "^18.2.0",
+    "react-native": "^0.72.5"
+  }
+}
